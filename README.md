@@ -14,9 +14,9 @@ Our app, DyslexiSLASH works much like the classic Fruit Ninja mobile app. Once t
 Our goal is for the user to increase their self-confidence in identifying letters in the correct orientation. 
 
 ## ⚙️ How we built it
-- Akanksha used Flutter for the functionality and UI of the app
-- Adriana used Figma to conceptualize the app. She made it accessible for individuals with dyslexia by replacing text with icons/images whenever possible!
-- Muskan used Microsoft Azure to authenticate using the Cloud
+- we used Flutter for the functionality and UI of the app
+- we used Figma to conceptualize the app. She made it accessible for individuals with dyslexia by replacing text with icons/images whenever possible!
+- we used Microsoft Azure to authenticate using the Cloud
 
 ## 🤔 Challenges we ran into
 We were separated by large time differences, so we found it hard to communicate updates while others were sleeping. We decided to implement text updates and assigned individual tasks accordingly to help us keep us organized!
